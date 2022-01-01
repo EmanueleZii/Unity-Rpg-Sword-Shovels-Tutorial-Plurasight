@@ -1,3 +1,9 @@
 # Unity-rpg-Sword-Shovels-tutorial-plurasight
 
-tutotial fatto tramite unity learn
+Progetto Tutorial realizzato tramite Unity Learn
+
+Versione utilizzata : unity2018
+Linguaggio Di Programmazione: C#
+
+
+
